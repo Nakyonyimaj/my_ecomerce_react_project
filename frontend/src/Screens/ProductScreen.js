@@ -3,7 +3,7 @@ import React, { useContext, useEffect, useReducer } from "react";
 import Col from "react-bootstrap/esm/Col";
 import ListGroup from "react-bootstrap/esm/ListGroup";
 import Row from "react-bootstrap/esm/Row";
-import { Navigate, useNavigate, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import Rating from "../Components/Rating";
 import Card from "react-bootstrap/Card";
 import Badge from "react-bootstrap/Badge";
